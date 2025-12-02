@@ -1,0 +1,17 @@
+{
+  "cxxNamespace": ["pakerwreah_reactnativeinspector"],
+  "ios": {
+    "iosModuleName": "ReactNativeInspector"
+  },
+  "android": {
+    "androidNamespace": ["pakerwreah","reactnativeinspector"],
+    "androidCxxLibName": "pakerwreah_reactnativeinspector"
+  },
+  "autolinking": {
+    "ReactNativeInspector": {
+      "swift": "ReactNativeInspector",
+      "kotlin": "ReactNativeInspector"
+    }
+  },
+  "ignorePaths": ["node_modules"]
+}
