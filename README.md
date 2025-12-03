@@ -1,39 +1,9 @@
 # @pakerwreah/react-native-inspector
 
-Tool to inspect SQLite databases and intercept network requests from mobile applications.
+Inspector c++ access from react native using [Nitro Modules](https://nitro.margelo.com/)
 
-## Installation
+https://github.com/pakerwreah/Inspector
 
+This is just a study. Check the official repo to use the library with swift/kotlin.
 
-```sh
-npm install @pakerwreah/react-native-inspector react-native-nitro-modules
-
-> `react-native-nitro-modules` is required as this library relies on [Nitro Modules](https://nitro.margelo.com/).
-```
-
-
-## Usage
-
-
-```js
-import { multiply } from '@pakerwreah/react-native-inspector';
-
-// ...
-
-const result = multiply(3, 7);
-```
-
-
-## Contributing
-
-- [Development workflow](CONTRIBUTING.md#development-workflow)
-- [Sending a pull request](CONTRIBUTING.md#sending-a-pull-request)
-- [Code of conduct](CODE_OF_CONDUCT.md)
-
-## License
-
-MIT
-
----
-
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+<img width="500" src="https://github.com/user-attachments/assets/564e1fdd-b20c-42be-a15f-d6c14d91eabd" />
