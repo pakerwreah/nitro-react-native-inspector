@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "19.1.0",
     "react-native": "0.81.1",
+    "react-native-fs": "^2.20.0",
     "react-native-nitro-modules": "^0.31.10"
   },
   "devDependencies": {

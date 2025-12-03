@@ -8,9 +8,8 @@
     "androidCxxLibName": "pakerwreah_reactnativeinspector"
   },
   "autolinking": {
-    "ReactNativeInspector": {
-      "swift": "ReactNativeInspector",
-      "kotlin": "ReactNativeInspector"
+    "Inspector": {
+      "cpp": "ReactNativeInspector"
     }
   },
   "ignorePaths": ["node_modules"]
